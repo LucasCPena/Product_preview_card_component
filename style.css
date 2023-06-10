@@ -64,10 +64,8 @@ h1.text {
 }
 
 span{
-  ;
-  color: grey;
-  
-  font-weight:200
+   color: grey;
+   font-weight:200
 }
 
 span.price{
