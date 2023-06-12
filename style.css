@@ -86,4 +86,11 @@ button{
   background-color: hsl(158, 41%, 20%) ;
   color: white;
   border-radius: 10px;
+  cursor: pointer;
+  border: none;
+  transition: all 300ms;
+}
+
+button:hover{
+  transform: scale(1.1);
 }
