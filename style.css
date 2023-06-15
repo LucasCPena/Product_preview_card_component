@@ -23,7 +23,7 @@ html {
 }
 
 .card-container {
-   background-color: white;
+  background-color: white;
   border-radius: 30px;
   display: flex;
     
@@ -94,3 +94,4 @@ button{
 button:hover{
   transform: scale(1.1);
 }
+/* TODO MELHORAR BUTTON * /
