@@ -1,5 +1,5 @@
 ## Welcome!👋
-This is a solution of [FrontEnd Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)  this is a project in css and html for improve my coding skills.
+This is a solution of [FrontEnd Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)  this is a project in css and html for improve my coding skills.
 
 ## Screenshot
 
