@@ -1,14 +1,15 @@
-# Frontend Mentor - Results QRCode Component
+![image](https://github.com/LucasCPena/Product_preview_card_component/assets/79058932/b848e557-eeaf-4b59-ac8d-89f15f3e4d9f)# Frontend Mentor - Results QRCode Component
 ## Welcome!👋
 This is a solution of [FrontEnd Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)  this is a project in css and html for improve my coding skills.
 
 ## Screenshot
-![QR Code Project](https://github.com/LucasCPena/QRCode-Component/assets/79058932/5e3c8e37-ce3f-495e-8706-461f02dc455b)
+
+![project product](https://github.com/LucasCPena/Product_preview_card_component/assets/79058932/9692d813-6fef-471b-a901-032876f97e00)
 
 
 ## Link
-Live Site URL:(https://master--qr-component-result.netlify.app/) <br/>
-Solution URL:(https://github.com/LucasCPena/QRCode-Component)
+Live Site URL:(https://product-component-card-master.netlify.app/) <br/>
+Solution URL:(https://github.com/LucasCPena/Product_preview_card_component)
 
 ## Built with
 CSS <br/>
