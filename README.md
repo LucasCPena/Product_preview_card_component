@@ -1,4 +1,3 @@
-![image](https://github.com/LucasCPena/Product_preview_card_component/assets/79058932/b848e557-eeaf-4b59-ac8d-89f15f3e4d9f)# Frontend Mentor - Results QRCode Component
 ## Welcome!👋
 This is a solution of [FrontEnd Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)  this is a project in css and html for improve my coding skills.
 
