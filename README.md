@@ -13,7 +13,7 @@ Solution URL:(https://github.com/LucasCPena/Product_preview_card_component)
 ## Built with
 CSS <br/>
 HTML5<br/>
-CSS-FlexBox
+CSS-FlexBox<br/>
 CSS-Hover
 
 ## Skills
